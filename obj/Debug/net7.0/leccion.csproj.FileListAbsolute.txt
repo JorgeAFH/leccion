@@ -1,0 +1,15 @@
+C:\Users\lapto\Desktop\leccion\bin\Debug\net7.0\leccion.exe
+C:\Users\lapto\Desktop\leccion\bin\Debug\net7.0\leccion.deps.json
+C:\Users\lapto\Desktop\leccion\bin\Debug\net7.0\leccion.runtimeconfig.json
+C:\Users\lapto\Desktop\leccion\bin\Debug\net7.0\leccion.dll
+C:\Users\lapto\Desktop\leccion\bin\Debug\net7.0\leccion.pdb
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.csproj.AssemblyReference.cache
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.AssemblyInfoInputs.cache
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.AssemblyInfo.cs
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.csproj.CoreCompileInputs.cache
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.dll
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\refint\leccion.dll
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.pdb
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\leccion.genruntimeconfig.cache
+C:\Users\lapto\Desktop\leccion\obj\Debug\net7.0\ref\leccion.dll
